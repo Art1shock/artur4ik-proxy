@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Artur4ik Proxy",
+  "version": "1.0.0",
+  "description": "Simple extension to enable or disable a SOCKS5 proxy with one click. The extension does not collect or store any user data. It only changes Chrome proxy settings locally.",
+  "permissions": ["storage", "proxy"],
+  "host_permissions": ["https://api.ipify.org/*"],
+  "action": {
+    "default_title": "Artur4ik Proxy",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "service-worker.js",
+    "type": "module"
+  },
+  "icons": {
+    "128": "assets/icon128.png"
+  }
+}

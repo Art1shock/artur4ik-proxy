@@ -2,7 +2,7 @@ Privacy Policy – Artur4ik Proxy
 
 Artur4ik Proxy does not collect, store, or transmit any personal data.
 
-The extension only changes the browser proxy settings locally on the user's device using the Chrome proxy API.
+The extension only changes the browser proxy settings locally on the user's device using the Chrome Proxy API.
 
 No browsing history, IP addresses, authentication credentials, or personal information are collected or sent to any server.
 
